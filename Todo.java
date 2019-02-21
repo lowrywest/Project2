@@ -1,27 +1,27 @@
 public class Todo {/*
 Lab Section_________: 11
-Last Modified_______: 2019-02-19
+Last Modified_______: 2019-02-20
 OU ID_______________: 113410037
 OU EMAIL____________: lowry.y.west-1@ou.edu
 
 Tasks:
-1. calculate two tokens
-2. calculate three tokens
-3. execute
-4. parse and excute
-5. calculator tests
+1. calAverage abstract
+2. lettterAverage abstract
+3. Inherit constructor
+4. Inherit calAverage
+5. Inherit lettterAverage
 
 Estimated Time (minutes):
-1. 20
-2. 20
-3. 20
-4. 20
-5. 50
+1. 5
+2. 5
+3. 10
+4. 10
+5. 5
 
 Actual Time (minutes):
-1. 30
-2. 30
-3. 30
-4. 30
-5. 120
+1. 3
+2. 3
+3. 5
+4. 5
+5. 5
 */}

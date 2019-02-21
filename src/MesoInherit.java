@@ -29,7 +29,6 @@ public class MesoInherit extends MesoAbstract
 				charVals[2]= (int)Math.ceil(avg);
 			}
 		
-		System.out.println(Arrays.toString(charVals));
 		// TODO Auto-generated method stub
 		return charVals;
 	}
@@ -37,7 +36,7 @@ public class MesoInherit extends MesoAbstract
 	@Override
 	public char letterAverage() 
 	{
-		char val= (char)charVals[3];
+		char val= (char)charVals[2];
 		return val;
 	}
 	//TODO
